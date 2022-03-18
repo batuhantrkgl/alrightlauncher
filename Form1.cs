@@ -26,6 +26,7 @@ namespace AlrightLauncherV2
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            
             label4.Visible = false;
             label3.Visible = false;
             guna2ComboBox1.Visible = false;
@@ -46,6 +47,7 @@ namespace AlrightLauncherV2
             }
             else
             {
+               
                 guna2Button1.Visible = true;
                 guna2ComboBox1.Visible = true;
                 label4.Visible = true;
@@ -75,6 +77,8 @@ namespace AlrightLauncherV2
 
             var ayar = new MLaunchOption
             {
+
+
                 //maximum Ram
                 MaximumRamMb = 3000,
                 Session = MSession.GetOfflineSession(label4.Text),
@@ -84,6 +88,16 @@ namespace AlrightLauncherV2
             };
             var process = await launcher.CreateProcessAsync(guna2ComboBox1.Text, ayar);
             process.Start();
+        }
+
+        private void guna2Button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2TextBox1_Click(object sender, EventArgs e)
+        {
+            guna2TextBox1.Text = "";
         }
     }
 }
