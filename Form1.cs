@@ -26,7 +26,9 @@ namespace AlrightLauncherV2
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            label2.Text = "Giriş Menüsü";
+            pictureBox1.Visible = false;
+            label5.Visible = false;
             label4.Visible = false;
             label3.Visible = false;
             guna2ComboBox1.Visible = false;
@@ -47,7 +49,10 @@ namespace AlrightLauncherV2
             }
             else
             {
-               
+
+                pictureBox1.Visible = true;
+                label5.Visible = true;
+                label2.Text = "Ana Menü";
                 guna2Button1.Visible = true;
                 guna2ComboBox1.Visible = true;
                 label4.Visible = true;
@@ -63,6 +68,7 @@ namespace AlrightLauncherV2
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
+            label2.Text = "Oyun Açılıyor...";
             guna2Button1.Text = "Açılıyor...";
             guna2Button1.Enabled = false;
 
@@ -82,8 +88,6 @@ namespace AlrightLauncherV2
                 //maximum Ram
                 MaximumRamMb = 3000,
                 Session = MSession.GetOfflineSession(label4.Text),
-                //your server ip
-                ServerIp = "alright.aternos.me"
 
             };
             var process = await launcher.CreateProcessAsync(guna2ComboBox1.Text, ayar);
@@ -95,9 +99,45 @@ namespace AlrightLauncherV2
 
         }
 
+
+
         private void guna2TextBox1_Click(object sender, EventArgs e)
         {
-            guna2TextBox1.Text = "";
+            if (guna2TextBox1.Text == "Kullanıcı Adı") {
+                guna2TextBox1.Text = "";
+            }
+            
+            
+        }
+
+        private void guna2TextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            pictureBox1.Visible = false;
+            label5.Visible = false;
+            label2.Text = "Giriş Menüsü";
+            label5.Visible = false;
+            label4.Visible = false;
+            label3.Visible = false;
+            guna2ComboBox1.Visible = false;
+            guna2Button1.Visible = false;
+            guna2TextBox1.Visible = true;
+            guna2Button2.Visible = true;
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox2_Click_1(object sender, EventArgs e)
+        {
+            
         }
     }
 }

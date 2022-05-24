@@ -118,11 +118,32 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="577132-awesome-phone-wallpaper-will-be-a-thing-of-the-past-and-heres-why-in-2020-flower-drawing-wall-painting-painted-paper_421x517" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\577132-awesome-phone-wallpaper-will-be-a-thing-of-the-past-and-heres-why-in-2020-flower-drawing-wall-painting-painted-paper_421x517.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="8e500385450c106e18e6bad98cae2bc1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8e500385450c106e18e6bad98cae2bc1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="indir" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\indir.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logout_photoshop2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logout_photoshop2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="indir_1_421x520" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\indir_1_421x520.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="577132-awesome-phone-wallpaper-will-be-a-thing-of-the-past-and-heres-why-in-2020-flower-drawing-wall-painting-painted-paper_421x517" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\577132-awesome-phone-wallpaper-will-be-a-thing-of-the-past-and-heres-why-in-2020-flower-drawing-wall-painting-painted-paper_421x517.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logout_photoshop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logout_photoshop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="png-clipart-computer-icons-setting-icon-desktop-wallpaper-android-thumbnail_1_24x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\png-clipart-computer-icons-setting-icon-desktop-wallpaper-android-thumbnail_1_24x24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bolt_photoshop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bolt_photoshop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logout_FILL0_wght400_GRAD0_opsz48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logout_FILL0_wght400_GRAD0_opsz48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="indir_421x520" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\indir_421x520.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -133,16 +154,13 @@
   <data name="png-clipart-computer-icons-setting-icon-desktop-wallpaper-android-thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\png-clipart-computer-icons-setting-icon-desktop-wallpaper-android-thumbnail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="8e500385450c106e18e6bad98cae2bc1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\8e500385450c106e18e6bad98cae2bc1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="logout_FILL0_wght400_GRAD0_opsz481" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logout_FILL0_wght400_GRAD0_opsz481.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="577132-awesome-phone-wallpaper-will-be-a-thing-of-the-past-and-heres-why-in-2020-flower-drawing-wall-painting-painted-paper" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\577132-awesome-phone-wallpaper-will-be-a-thing-of-the-past-and-heres-why-in-2020-flower-drawing-wall-painting-painted-paper.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="indir_1_421x520" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\indir_1_421x520.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="png-clipart-computer-icons-setting-icon-desktop-wallpaper-android-thumbnail_1_24x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\png-clipart-computer-icons-setting-icon-desktop-wallpaper-android-thumbnail_1_24x24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="settings_photoshop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\settings_photoshop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -39,8 +39,11 @@
             this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
+            this.label5 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.guna2PictureBox4 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -78,7 +81,7 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label4.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label4.Location = new System.Drawing.Point(12, 466);
+            this.label4.Location = new System.Drawing.Point(8, 439);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(109, 24);
             this.label4.TabIndex = 5;
@@ -183,6 +186,7 @@
             this.guna2TextBox1.SelectedText = "";
             this.guna2TextBox1.Size = new System.Drawing.Size(200, 36);
             this.guna2TextBox1.TabIndex = 12;
+            this.guna2TextBox1.TextChanged += new System.EventHandler(this.guna2TextBox1_TextChanged);
             this.guna2TextBox1.Click += new System.EventHandler(this.guna2TextBox1_Click);
             // 
             // guna2Button2
@@ -203,6 +207,26 @@
             this.guna2Button2.Text = "Oyna";
             this.guna2Button2.Click += new System.EventHandler(this.guna2Button2_Click);
             // 
+            // label5
+            // 
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F);
+            this.label5.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label5.Location = new System.Drawing.Point(69, 483);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(100, 24);
+            this.label5.TabIndex = 15;
+            this.label5.Text = "Çıkış Yap";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::AlrightLauncherV2.Properties.Resources.logout_photoshop2;
+            this.pictureBox1.Location = new System.Drawing.Point(12, 466);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(51, 51);
+            this.pictureBox1.TabIndex = 14;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
             // guna2PictureBox4
             // 
             this.guna2PictureBox4.BackgroundImage = global::AlrightLauncherV2.Properties.Resources._8e500385450c106e18e6bad98cae2bc1;
@@ -216,7 +240,7 @@
             // 
             // guna2PictureBox1
             // 
-            this.guna2PictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(22)))), ((int)(((byte)(36)))));
+            this.guna2PictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(162)))), ((int)(((byte)(152)))));
             this.guna2PictureBox1.BackgroundImage = global::AlrightLauncherV2.Properties.Resources._8e500385450c106e18e6bad98cae2bc1;
             this.guna2PictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.guna2PictureBox1.Image = global::AlrightLauncherV2.Properties.Resources._577132_awesome_phone_wallpaper_will_be_a_thing_of_the_past_and_heres_why_in_2020_flower_drawing_wall_painting_painted_paper_421x517;
@@ -232,7 +256,9 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(30)))), ((int)(((byte)(30)))));
-            this.ClientSize = new System.Drawing.Size(865, 516);
+            this.ClientSize = new System.Drawing.Size(865, 521);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.guna2Button2);
             this.Controls.Add(this.guna2TextBox1);
             this.Controls.Add(this.guna2Button1);
@@ -246,8 +272,10 @@
             this.Controls.Add(this.guna2PictureBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Alright | Launcher";
             this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
             this.ResumeLayout(false);
@@ -258,7 +286,6 @@
         #endregion
 
         private Guna.UI2.WinForms.Guna2BorderlessForm guna2BorderlessForm1;
-        private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox1;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label2;
@@ -269,6 +296,9 @@
         private Guna.UI2.WinForms.Guna2Button guna2Button1;
         private Guna.UI2.WinForms.Guna2Button guna2Button2;
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox1;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label label5;
+        private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox1;
     }
 }
 
