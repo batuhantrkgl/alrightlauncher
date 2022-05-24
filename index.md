@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Alright Launcher'in Websitesine Hoşgeldin!
 
-You can use the [editor on GitHub](https://github.com/batuhantrkgl/alrightlauncher/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Alright Launcher'i İndirmek İçin [GitHub Releases Page](https://github.com/batuhantrkgl/alrightlauncher/releases)'i Kullanabilirsin.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bu Launcher Minecraft İçin Özel Tasarlanmıştır.
 
 ### Markdown
 
