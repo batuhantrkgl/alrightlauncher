@@ -4,34 +4,14 @@ Alright Launcher'i İndirmek İçin [GitHub Releases Page](https://github.com/ba
 
 Bu Launcher Minecraft İçin Özel Tasarlanmıştır.
 
-### Markdown
+### Bu Launcher'in Hikayesi Ney?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Batuhan Türkoğlu'nun Firması Olan Alright, Ekibi Ve Batuhan Türkoğlu İle 3 Ay Önce Bir Launcher Projesine Başladılar. Ve Uzun Süredir Devam Ediyor. Dünyada En Çok Oynanan Oyunlar Arasındaki Minecraft'ı Alright Farkı İle Geliştirmeye Çalışıyoruz. Güncellemeler İçin Takipte Kalın!
 
-```markdown
-Syntax highlighted code block
+### Bu Launcher Güvenlimi?
 
-# Header 1
-## Header 2
-### Header 3
+Bildiğiniz Gibi Launcher Github Sayesinde Tamamen Açık Kaynak Kodludur. Launcher Hiçbirşekilde Bilgisayarınıza Zarar Vermek Amacı İle Tasarlanmamıştır.
 
-- Bulleted
-- List
+### Desteklenen İşletim Sistemleri
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/batuhantrkgl/alrightlauncher/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Şu Anlık Sadece Windows İçin Bu Uygulamayı Geliştiriyoruz.
