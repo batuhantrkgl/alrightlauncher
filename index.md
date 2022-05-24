@@ -15,3 +15,20 @@ Bildiğiniz Gibi Launcher Github Sayesinde Tamamen Açık Kaynak Kodludur. Launc
 ### Desteklenen İşletim Sistemleri
 
 Şu Anlık Sadece Windows İçin Bu Uygulamayı Geliştiriyoruz.
+
+### FAQ 
+
+Q: Optifine, Forge, Fabric vb. sürümler eklenecekmi?
+A: Evet. Yakında...
+
+Q: Microsoft Ve Mojang Authentication Gelecekmi?
+A: Evet, Üzerinde Çalışıyoruz.
+
+Q: Launcher Açılmıyor Neden?
+A: Zip Dosyasını Bir Klasörün İçine Ayıklamamanız Gerekiyor.
+
+Q: Hangi Dilde Programlandı?
+A: C# | Form Application
+
+Q: Zararlı Uygulama Olarak Görüyor Neden?
+A: Serftika Doğrulamamız Olmadığı İçin Bu Uygulama Zararlı Bir Uygulama Olarak Gözüküyor.
