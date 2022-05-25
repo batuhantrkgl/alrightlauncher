@@ -4,11 +4,11 @@ Alright Launcher'i İndirmek İçin [GitHub Releases Page](https://github.com/ba
 
 Bu Launcher Minecraft İçin Özel Tasarlanmıştır.
 
-### Bu Launcher'in Hikayesi Ney?
+### Bu Launcher'in Hikayesi Ne?
 
 Batuhan Türkoğlu'nun Firması Olan Alright, Ekibi Ve Batuhan Türkoğlu İle 3 Ay Önce Bir Launcher Projesine Başladılar. Ve Uzun Süredir Devam Ediyor. Dünyada En Çok Oynanan Oyunlar Arasındaki Minecraft'ı Alright Farkı İle Geliştirmeye Çalışıyoruz. Güncellemeler İçin Takipte Kalın!
 
-### Bu Launcher Güvenlimi?
+### Bu Launcher Güvenli mi?
 
 Bildiğiniz Gibi Launcher Github Sayesinde Tamamen Açık Kaynak Kodludur. Launcher Hiçbirşekilde Bilgisayarınıza Zarar Vermek Amacı İle Tasarlanmamıştır.
 
@@ -18,12 +18,12 @@ Bildiğiniz Gibi Launcher Github Sayesinde Tamamen Açık Kaynak Kodludur. Launc
 
 ### FAQ 
 
-Q: Optifine, Forge, Fabric vb. sürümler eklenecekmi?
+Q: Optifine, Forge, Fabric vb. sürümler eklenecek mi?
 
 A: Evet. Yakında...
 
 
-Q: Microsoft Ve Mojang Authentication Gelecekmi?
+Q: Microsoft Ve Mojang Authentication Gelecek mi?
 
 A: Evet, Üzerinde Çalışıyoruz.
 
