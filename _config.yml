@@ -1,7 +1,7 @@
 remote_theme: tuur29/pages-themes-cayman
 show_downloads: true
 title: Alright Launcher Website
-description: Alright Launcher İçin Batuhan Türkoğlunun Geliştirdiği Website
+description: Yet Another Minecraft Launcher Using C# 
 darkmode: true 
 syntax_theme: ./syntax.css # Leave empty for default, otherwise link to a pygments stylesheet
 logo_url: ./logo.png # Either absolute or relative url
