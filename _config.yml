@@ -13,7 +13,7 @@ colors:
     link: "#1e6bb8" # this default to gradient_color
     section_title: "#155799" # this default to gradient_color
 buttons:
-      zip_url: 
+      zip_url: https://github.com/batuhantrkgl/alrightlauncher/zipball/main
       zip_title: Zip Olarak İndir!
       zip_hide: false
       github_hide: false # hides "View on Github"
