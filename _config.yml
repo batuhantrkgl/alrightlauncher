@@ -13,7 +13,7 @@ colors:
     link: "#1e6bb8" # this default to gradient_color
     section_title: "#155799" # this default to gradient_color
 buttons:
-      zip_url: https://github.com/batuhantrkgl/alrightlauncher/zipball/latest
+      zip_url: https://github.com/batuhantrkgl/alrightlauncher/zipball/Latest
       zip_title: Zip Olarak İndir!
       zip_hide: false
       tar_hide: true
