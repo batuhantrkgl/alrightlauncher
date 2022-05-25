@@ -16,4 +16,5 @@ buttons:
       zip_url: https://github.com/batuhantrkgl/alrightlauncher/zipball/main
       zip_title: Zip Olarak İndir!
       zip_hide: false
+      tar_hide: true
       github_hide: false # hides "View on Github"
