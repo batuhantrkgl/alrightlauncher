@@ -1,5 +1,6 @@
 ### Alright Launcher İndirme Sayfası
 NOT: Alright Launcher Hala Geliştirme Aşamasındadır.
+
 İndirmek İçin [Buraya](https://github.com/batuhantrkgl/alrightlauncher/releases) Tıklayın
 
 ## Nasıl Yüklenir?
