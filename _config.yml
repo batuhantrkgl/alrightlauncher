@@ -4,14 +4,11 @@ title: Alright Launcher Website
 description: Yet Another Minecraft Launcher Using C# 
 darkmode: true 
 syntax_theme: ./syntax.css # Leave empty for default, otherwise link to a pygments stylesheet
-logo_url: ./logo.png # Either absolute or relative url
-colors:
-    gradient_left: "#155799"
-    gradient_right: "#159957"
-    header: "#fff"
-    android_theme: "#000" # this default to gradient_color
-    link: "#1e6bb8" # this default to gradient_color
-    section_title: "#155799" # this default to gradient_color
+logo_url: https://github.com/batuhantrkgl/alrightlauncher/blob/gh-pages/logo.png # Either absolute or relative url
+color:
+  header: "#000"
+  gradient_left: "#e53935"
+  gradient_right: "#f57c00"
 buttons:
       zip_url: https://github.com/batuhantrkgl/alrightlauncher/zipball/Latest
       zip_title: Zip Olarak İndir!
