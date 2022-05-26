@@ -1,17 +1,16 @@
-remote_theme: tuur29/pages-themes-cayman
+title: Alright Launcher 
+description: Alright Launcher Alright Farkı ile Minecraft Oynamanız İçin Yaratılmıştır.
 show_downloads: true
-title: Alright Launcher Website
-description: Yet Another Minecraft Launcher Using C# 
-syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
-darkmode: true 
-logo_url: https://github.com/batuhantrkgl/alrightlauncher/blob/gh-pages/logo.png # Either absolute or relative url
+remote_theme: tuur29/pages-themes-cayman
 color:
   header: "#000"
   gradient_left: "#e53935"
   gradient_right: "#f57c00"
+logo_url: https://raw.githubusercontent.com/batuhantrkgl/alrightlauncher/gh-pages/logo.png
+syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 buttons:
   zip_url: https://batuhantrkgl.github.io/alrightlauncher/downloads
-  zip_title: İndir!
+  zip_title: İndir
   zip_hide: false
-      tar_hide: true
-      github_hide: false # hides "View on Github"
+  tar_hide: true
+  github_hide: false
