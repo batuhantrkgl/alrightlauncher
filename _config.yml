@@ -2,6 +2,7 @@ title: Alright Launcher
 description: Alright Launcher Alright Farkı ile Minecraft Oynamanız İçin Yaratılmıştır.
 show_downloads: true
 remote_theme: tuur29/pages-themes-cayman
+darkmode: true
 color:
   header: "#000"
   gradient_left: "#e53935"
