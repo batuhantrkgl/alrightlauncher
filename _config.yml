@@ -4,7 +4,6 @@ title: Alright Launcher Website
 description: Yet Another Minecraft Launcher Using C# 
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 darkmode: true 
-syntax_theme: ./syntax.css # Leave empty for default, otherwise link to a pygments stylesheet
 logo_url: https://github.com/batuhantrkgl/alrightlauncher/blob/gh-pages/logo.png # Either absolute or relative url
 color:
   header: "#000"
