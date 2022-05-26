@@ -11,6 +11,8 @@ color:
   gradient_left: "#e53935"
   gradient_right: "#f57c00"
 buttons:
-      zip_hide: true
+  zip_url: https://batuhantrkgl.github.io/alrightlauncher/downloads
+  zip_title: İndir!
+  zip_hide: false
       tar_hide: true
       github_hide: false # hides "View on Github"
