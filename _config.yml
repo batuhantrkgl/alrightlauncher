@@ -10,8 +10,6 @@ color:
   gradient_left: "#e53935"
   gradient_right: "#f57c00"
 buttons:
-      zip_url: https://github.com/batuhantrkgl/alrightlauncher/zipball/Latest
-      zip_title: Zip Olarak İndir!
-      zip_hide: false
+      zip_hide: true
       tar_hide: true
       github_hide: false # hides "View on Github"
